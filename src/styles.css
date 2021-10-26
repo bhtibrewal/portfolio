@@ -10,6 +10,9 @@ body {
     margin: 0rem ;
 }
 
+.header{
+    text-align: center;
+}
 /**head{
     font-family: 'Poppins', sans-serif;
 }**/
@@ -31,6 +34,7 @@ body {
     color: white;
     border-radius: .5rem;
     font-weight: bold;
+    margin:1rem;
 }
 .link-secondary{
     border: 2px solid var(--primary-color);
@@ -100,6 +104,8 @@ nav a {
     text-align: center;
     padding: 2rem; 
     border-radius: 1rem;  
+    max-width: 80%
+    
 }
 
 .ow{
@@ -123,6 +129,10 @@ nav a {
 }
 footer ul{
     padding-inline-start: 0rem;
+}
+.footer-icons{
+    max-width:100%;
+    width:2em;
 }
 
 
