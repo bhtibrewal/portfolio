@@ -147,23 +147,16 @@ nav a {
     padding: .5rem 1rem;
 
 }
-
 .footer-header {
     font-weight: bold;
     font-size: 1.3rem;
     color: white
 }
-
-.footer .link {
-    color: white;
-}
-
 footer ul {
     padding-inline-start: 0rem;
 }
 
 .footer-icons {
     max-width: 100%;
-    width: 2em;
-    color: white;
+    width: 2em; 
 }
