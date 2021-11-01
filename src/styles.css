@@ -80,6 +80,7 @@ button {
 .navigation {
     background-color: var(--primary-color);
     padding: .5rem 1rem 0rem;
+    /* display: flex; */
     /* position: fixed; */
 }
 

@@ -1,5 +1,6 @@
 {
     "git.scanRepositories": [
         "C:\\Users\\Lenovo\\Documents\\GitHub"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
