@@ -108,28 +108,31 @@ nav a {
 /* header */
 .header{
     margin-bottom: 2rem;
+    
 }
 .intro {
     padding: 2rem;
-    display: flex;
-    text-align: center;
+    display:flex;
+justify-content: space-evenly;
+    text-align:left;
     max-width: 90%;
     margin: auto;
+    background-color: rgba(97, 97, 97, 0.13);
+    color: var(--primary-color);
 }
 
 .intro-text {
-    max-width: 50%;
-
+   
 }
 
 .intro-heading {
-    color: var(--primary-color);
+    
 }
 
 .img {
     max-height: 250px;
     max-width: 50%;
-    margin-left: 10%;
+  
 }
 
 /* section */
